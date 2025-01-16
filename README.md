@@ -22,10 +22,10 @@ To test a trained ALMO, run
 
 where the parameters are:
 * epochs_test: the number of epochs to test.
-* swarm_num: the number of swarm.
-* min_similar: the minimum similarity.
-* data_fname_test: the path of test data.
-* test_model_path: the path of trained model.
+* swarm_num: population size.
+* min_similar: the lowest allowed similarity with the lead molecule.
+* data_fname_test: test file path.
+* test_model_path: model file path.
 
 
 
