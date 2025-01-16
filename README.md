@@ -2,6 +2,8 @@
 
 The complete code will be released after receive, but you can try the trained model for QED optimization.
 
+You can find model file from: https://drive.google.com/file/d/1n7YSigJCs7jmPFuP9eXaLS-l7UcLd-Vh/view?usp=sharing
+
 ## Requirements
 * python=3.8.13 
 * scikit-learn==0.23.1
@@ -24,4 +26,6 @@ where the parameters are:
 * min_similar: the minimum similarity.
 * data_fname_test: the path of test data.
 * test_model_path: the path of trained model.
+
+
 
